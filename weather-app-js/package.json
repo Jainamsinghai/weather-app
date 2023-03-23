@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "my nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alt-coding/weather-app-js.git"
+  },
+  "author": "jainam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alt-coding/weather-app-js/issues"
+  },
+  "homepage": "https://github.com/Alt-coding/weather-app-js#readme"
+}
